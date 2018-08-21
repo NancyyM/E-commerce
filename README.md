@@ -45,3 +45,10 @@ Entrevista
 ====================
 https://drive.google.com/open?id=1Y8ab1exp8_kVvpJo2t1xAmesGHM-j4X
 
+CUSTOMER JOURNEY MAP
+
+![customerJourney](image/customerJourneyMap.png)
+
+USER PERSONA
+![userPersona](image/UserPersona.png)
+
